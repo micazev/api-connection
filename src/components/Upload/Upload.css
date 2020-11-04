@@ -1,0 +1,32 @@
+.upload-info {
+  margin: 0 auto;
+  width: 50%;
+  justify-items: center;
+  justify-content: center;
+}
+
+.upload-info input {
+  width: 100%;
+  margin: 10px 0;
+  padding: 20px;
+}
+
+.upload-info textarea {
+  width: 100%;
+  margin: 10px 0;
+  padding: 20px;
+}
+
+.upload-info h1 {
+  font-weight: bold;
+  text-align: center;
+  font-size: 2.4rem;
+  margin-top: 40px;
+  margin-bottom: 40px;
+}
+
+.upload-info button {
+  margin: 0 auto;
+  width: 50%;
+  padding: 20px;
+}

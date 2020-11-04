@@ -1,0 +1,11 @@
+.header {
+  width: 100%;
+  justify-content: space-between;
+  border-bottom: 3px solid black;
+  background-color: white;
+  padding: 10px 50px;
+}
+
+.header input {
+  padding: 5px;
+}
