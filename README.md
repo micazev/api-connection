@@ -1,6 +1,7 @@
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-Check the API json [[here]](https://ih-beers-api2.herokuapp.com/beers)
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app)
+
+Check the API json used on the project [here](https://ih-beers-api2.herokuapp.com/beers)
 
 ### Available Scripts
 
