@@ -1,16 +1,45 @@
+# 🍺 Craft Beer Explorer
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app)
+Welcome to the Craft Beer Explorer, a React project that showcases a variety of craft beers sourced from the provided API.
 
-Check the API json used on the project [here](https://ih-beers-api2.herokuapp.com/beers)
+## 🚀 Quick Start
 
-### Available Scripts
+1. **Setup & Installation**
 
-In the project directory, you can run:
+   Make sure you have [Node.js](https://nodejs.org/) and [npm](https://www.npmjs.com/get-npm) installed.
 
-#### `npm start`
+   Clone this repository:
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+   ```bash
+   git clone [your-repo-link]
+   ```
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+   Navigate into the project directory:
+
+   ```bash
+   cd [your-repo-directory]
+   ```
+
+   Install the required dependencies:
+
+   ```bash
+   npm install
+   ```
+
+2. **Running Locally**
+
+   Start the development server:
+
+   ```bash
+   npm start
+   ```
+
+   Once the server starts, it will automatically open in your default browser. If not, you can manually navigate to [http://localhost:3000](http://localhost:3000).
+
+   Note: The page will reload automatically if you make any code edits. Keep an eye on the console for any potential lint errors.
+
+## 📜 Resources
+
+- **API Source**: Explore the raw JSON data from the API [here](https://ih-beers-api2.herokuapp.com/beers).
+
+- **Design Inspiration**: The visual design of this project was inspired by this [Dribbble shot](https://dribbble.com/shots/3812007-Product-Carousel-Craft-Beer-Website).

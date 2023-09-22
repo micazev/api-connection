@@ -1,9 +1,10 @@
 import React from "react";
 import { Link } from "react-router-dom";
 import ItemCard from "../ItemCard/ItemCard";
-import "./ItensList.css";
+import "./ApiBeerList.css";
 import axios from "axios";
-class ItensList extends React.Component {
+
+class ApiBeerList extends React.Component {
   state = {
     playlist: [],
   };
@@ -29,6 +30,7 @@ class ItensList extends React.Component {
                     id={val._id}
                     img={val.image_url}
                     title={val.name}
+                    tagline={val.tagline}
                   />
                 </Link>
               </div>
@@ -40,4 +42,4 @@ class ItensList extends React.Component {
   }
 }
 
-export default ItensList;
+export default ApiBeerList;
